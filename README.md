@@ -1,50 +1,60 @@
 # Ramon Saavedra
 
-Fullstack Developer building scalable web applications and backend-driven products with TypeScript, Next.js, React, NestJS, and PostgreSQL.
+Full-Stack Developer focused on TypeScript, React, Next.js, AI Integration and Developer Automation.
 
-My work is focused on production-ready systems, clean architecture, API design, security, and maintainable codebases. I enjoy building products end to end, from frontend experiences to backend services, infrastructure workflows, and real business logic.
+I build production-oriented web applications with strong frontend architecture, backend services, secure APIs, automated delivery workflows and real-world business logic.
 
 ## Profile
 
-I work best on modern web platforms that require more than just a good interface. I like structured systems, clear boundaries between frontend and backend, and applications that are designed to grow without becoming fragile.
+My work focuses on building scalable full-stack products with clear architecture and maintainable codebases.
 
-My experience includes fullstack product development, modular backend systems, cloud deployment, database design, authentication flows, validation, performance-minded frontend work, and AI-powered integrations. I am also expanding into workflow automation with n8n to build smarter, more connected systems. 
+I work across frontend and backend development using React, Next.js, TypeScript, Node.js, NestJS and PostgreSQL, with experience in authentication, validation, API design, database-backed systems, CI/CD and cloud deployment.
 
-## Core stack
+I am also building AI-assisted product features and developer automation systems using Docker isolation, Git worktrees, automated validation and controlled execution workflows.
+
+## Core Stack
 
 **Frontend**  
-TypeScript, React, Next.js, Tailwind CSS, Zustand
+TypeScript, React, Next.js, Tailwind CSS, App Router, Server Components
 
 **Backend**  
-Node.js, NestJS, REST APIs, PostgreSQL, Prisma
+Node.js, NestJS, REST APIs, PostgreSQL, Prisma, JWT Authentication
 
-**Cloud & Delivery**  
-Vercel, Railway, GitHub Actions, CI/CD
+**AI & Automation**  
+AI API Integration, Structured Data Extraction, Zod, Developer Automation, Git Worktrees
 
-**Architecture & Quality**  
-Modular architecture, validation, authentication, API documentation, security-focused development, production-oriented workflows
+**DevOps & Delivery**  
+Docker, GitHub Actions, CI/CD, Vercel, Railway
 
-**Currently learning**  
-n8n, with a focus on automation, orchestration, and process optimization
+**Security & Quality**  
+API Validation, Rate Limiting, Sanitization, Authentication, Vitest, Swagger, API Testing
 
-## What I build
+## Featured Projects
 
-I build web applications with clear structure, strong backend foundations, and real-world use cases. My projects typically include separated frontend and backend layers, scalable APIs, database-backed features, business process logic, and production deployment workflows.
+### Developer Automation Platform
+
+Currently developing a secure developer automation platform with isolated Docker workers, trusted execution capabilities, Git-aware workflows and automated validation.
+
+The platform is designed around controlled development workflows, human approval gates, automated reviews, CI monitoring and safe GitHub delivery.
+
+### Renyqo
+
+AI-assisted rental platform for the German-speaking market built with Next.js, React and TypeScript.
+
+Includes applicant/provider workflows and structured data extraction from text, PDF and voice, with validated API integration, automated testing, CI/CD and Docker-based development.
+
+## What I Build
 
 I am especially interested in:
-- Fullstack product development
+
+- Full-stack product development
+- AI-assisted applications
+- Developer tooling and automation
+- Backend architecture and API design
 - Scalable system design
-- Backend architecture and API development
-- AI integrations
-- Automation and workflow engineering
+- CI/CD and production workflows
 - Business-oriented software
 
 ## Languages
 
-German, English, Spanish, Dutch
-
-## GitHub
-
-This profile contains a selection of my projects, experiments, and production-oriented applications:
-
-[[Papyrus-Saa](https://github.com/Papyrus-Saa)](https://github.com/Ramon-Saavedra)
+German · English · Spanish · Dutch
