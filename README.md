@@ -1,60 +1,74 @@
 # Ramon Saavedra
 
-Full-Stack Developer focused on TypeScript, React, Next.js, AI Integration and Developer Automation.
+Full-stack developer working mainly with TypeScript, Node.js, NestJS, React and Next.js.
 
-I build production-oriented web applications with strong frontend architecture, backend services, secure APIs, automated delivery workflows and real-world business logic.
+My recent work is increasingly focused on backend architecture, infrastructure, asynchronous processing, reliability and production-oriented systems.
 
-## Profile
+My main project is **Renyqo**, a rental platform for the German market that I am developing as a real full-stack product with separate frontend and backend applications.
 
-My work focuses on building scalable full-stack products with clear architecture and maintainable codebases.
+Today, Renyqo already includes:
 
-I work across frontend and backend development using React, Next.js, TypeScript, Node.js, NestJS and PostgreSQL, with experience in authentication, validation, API design, database-backed systems, CI/CD and cloud deployment.
+- NestJS backend architecture
+- PostgreSQL and Prisma
+- Session-based authentication
+- Automated unit and end-to-end testing
+- Docker-based development and deployment workflows
+- CI/CD with GitHub Actions
+- AI-assisted listing features
+- Secure document processing with AWS S3, GuardDuty, EventBridge and SQS
+- Dedicated background workers for asynchronous workflows
+- Domain-focused application architecture
+- Security and validation across the API
 
-I am also building AI-assisted product features and developer automation systems using Docker isolation, Git worktrees, automated validation and controlled execution workflows.
+I am now using Renyqo as a real system to deepen my knowledge of:
 
-## Core Stack
+- System architecture
+- Distributed systems
+- Observability
+- Metrics, logs and tracing
+- Reliability and fault tolerance
+- High availability
+- Load balancing
+- Caching
+- Queues and event-driven architecture
+- Infrastructure as Code
+- Cloud architecture
+- Kubernetes
+- Autoscaling
+- AI infrastructure
+- Model routing
+- AI observability
+- Cost control
+- Disaster recovery
 
-**Frontend**  
-TypeScript, React, Next.js, Tailwind CSS, App Router, Server Components
+The goal is not to add infrastructure for the sake of complexity, but to understand when each component is justified and how it changes the behavior of the system.
 
-**Backend**  
-Node.js, NestJS, REST APIs, PostgreSQL, Prisma, JWT Authentication
+## Main projects
 
-**AI & Automation**  
-AI API Integration, Structured Data Extraction, Zod, Developer Automation, Git Worktrees
+### Renyqo Backend
+NestJS · PostgreSQL · Prisma · AWS · SQS · Docker · CI/CD · OpenAI
 
-**DevOps & Delivery**  
-Docker, GitHub Actions, CI/CD, Vercel, Railway
+Backend for a rental platform with application workflows, eligibility rules, conversations, document processing, viewings, read models and asynchronous infrastructure.
 
-**Security & Quality**  
-API Validation, Rate Limiting, Sanitization, Authentication, Vitest, Swagger, API Testing
+### Renyqo Frontend
+Next.js · React · TypeScript · Tailwind CSS · Vitest · Docker
 
-## Featured Projects
+Frontend application for applicants and providers, connected to the Renyqo backend through typed API contracts.
 
-### Developer Automation Platform
+### Rumpke Immobilien
+Next.js · TypeScript · Docker · GitHub Actions
 
-Currently developing a secure developer automation platform with isolated Docker workers, trusted execution capabilities, Git-aware workflows and automated validation.
+Real-world web development for a German real-estate business, including frontend architecture, deployment workflows and backend integration.
 
-The platform is designed around controlled development workflows, human approval gates, automated reviews, CI monitoring and safe GitHub delivery.
+### SUM
+Next.js · NestJS · PostgreSQL · Redis · BullMQ
 
-### Renyqo
+Full-stack platform with backend services, caching and background processing.
 
-AI-assisted rental platform for the German-speaking market built with Next.js, React and TypeScript.
+## Current direction
 
-Includes applicant/provider workflows and structured data extraction from text, PDF and voice, with validated API integration, automated testing, CI/CD and Docker-based development.
-
-## What I Build
-
-I am especially interested in:
-
-- Full-stack product development
-- AI-assisted applications
-- Developer tooling and automation
-- Backend architecture and API design
-- Scalable system design
-- CI/CD and production workflows
-- Business-oriented software
+I am moving from general full-stack development toward backend, infrastructure and system architecture, with a particular interest in AI-enabled systems and reliability.
 
 ## Languages
 
-German · English · Spanish · Dutch
+Spanish · German · English · Dutch
