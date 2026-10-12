@@ -71,4 +71,4 @@ I am moving from general full-stack development toward backend, infrastructure a
 
 ## Languages
 
-Spanish · German · English · Dutch
+Spanish · German · English
